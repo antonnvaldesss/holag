@@ -5,4 +5,4 @@ if today <= 10:
 elif today > 10:
     print("JOHN EGBERT")
     
-#lknasl
+#john egbert jegbert JOHN EGBERTT
